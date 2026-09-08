@@ -11,7 +11,7 @@ class NoiseClickerApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'NoiseClicker',
+      title: 'NoiseClicker', 4#
       debugShowCheckedModeBanner: false,
       home: NoiseClickerScreen(),
     );
